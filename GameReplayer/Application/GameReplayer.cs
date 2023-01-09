@@ -2,13 +2,13 @@
 using System.IO;
 using System.Linq;
 using System.Threading;
+using GameReplayer.Contracts;
 using Newtonsoft.Json;
-using NflLoadTester.Contracts;
-using NflLoadTester.Helpers;
+using GameReplayer.Helpers;
 
-namespace NflLoadTester.Application
+namespace GameReplayer.Application
 {
-    public class GameReplayer
+    public class Replayer
     {
         public void Handle()
         {

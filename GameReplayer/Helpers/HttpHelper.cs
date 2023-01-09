@@ -4,7 +4,7 @@ using Infrastructure.Http.Client;
 using Newtonsoft.Json;
 using Nfl.UI.Contracts;
 
-namespace NflLoadTester.Helpers
+namespace GameReplayer.Helpers
 {
     public static class HttpHelper
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NflLoadTester.Contracts
+namespace GameReplayer.Contracts
 {
     public class Action
     {

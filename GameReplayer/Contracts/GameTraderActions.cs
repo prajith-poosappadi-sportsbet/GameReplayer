@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace NflLoadTester.Contracts
+namespace GameReplayer.Contracts
 {
     public class GameTraderActions
     {

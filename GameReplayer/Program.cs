@@ -1,12 +1,16 @@
 ﻿using System;
+using GameReplayer.Application;
 
 namespace GameReplayer
 {
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("NflLoadTester Main!");
+            // var handler = new LoadTester();
+            var handler = new Replayer();
+            handler.Handle();
         }
     }
 }

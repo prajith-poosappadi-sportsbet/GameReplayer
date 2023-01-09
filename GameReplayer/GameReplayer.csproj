@@ -5,4 +5,9 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+        <PackageReference Include="Infrastructure.Http.Client" Version="3.0.2" />
+        <PackageReference Include="Nfl.UI.Contracts" Version="3.0.37" />
+    </ItemGroup>
+
 </Project>
