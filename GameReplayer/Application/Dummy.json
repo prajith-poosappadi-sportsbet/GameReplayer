@@ -1,0 +1,24 @@
+{
+  "GameId": "c2bee4fe-02ae-4dcf-8e66-cfa51b53abf4",
+  "Actions": [{
+      "ActionType": "AddPass",
+      "Command": {
+        "GameId": "c2bee4fe-02ae-4dcf-8e66-cfa51b53abf4",
+        "SecondsElapsedInPeriod": 20,
+        "Result": 0,
+        "UpdatedLineOfScrimmage": 70
+      },
+      "TimestampUtc": "2023-01-04T04:44:46Z"
+    },
+    {
+      "ActionType": "AddPass",
+      "Command": {
+        "GameId": "c2bee4fe-02ae-4dcf-8e66-cfa51b53abf4",
+        "SecondsElapsedInPeriod": 14,
+        "Result": 0,
+        "UpdatedLineOfScrimmage": 60
+      },
+      "TimestampUtc": "2023-01-04T04:44:58Z"
+    }
+  ]
+}
